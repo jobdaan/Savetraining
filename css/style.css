@@ -27,4 +27,82 @@ a:hover, a:active {
 	text-transform: uppercase;
 	color: #ffffff;
 	text-decoration: none;
-} 
+}
+
+#plaatje {
+	position: relative;
+	width: 700px;
+	left: 50%;
+	margin-left: -350px;
+}
+#plaatje img {
+	position: relative;
+}
+#plaatje a {
+	display: block;
+	position: absolute;
+}
+
+#borst
+{
+height: 59px;
+width: 100px;
+top: 143px;
+left:143px;
+}
+#rug
+{
+height: 157px;
+width: 122px;
+top: 141px;
+left:450px;
+}
+#benen1
+{
+height: 300px;
+width: 125px;
+top: 357px;
+left:133px;
+}
+#benen2
+{
+height: 300px;
+width: 125px;
+top: 357px;
+left:133px;
+}
+#buik
+{
+height: 110px;
+width: 106px;
+top: 210px;
+left:140px;
+}
+#armen1
+{
+height: 167px;
+width: 85px;
+top: 154px;
+left:44px;
+}
+#armen2
+{
+height: 181px;
+width: 254px;
+top: 150px;
+left:59px;
+}
+#armen3
+{
+height: 149px;
+width: 390px;
+top: 181px;
+left:56px;
+}
+#armen4
+{
+height: 155px;
+width: 574px;
+top: 179px;
+left:50px;
+}
